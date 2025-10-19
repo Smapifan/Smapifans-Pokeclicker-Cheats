@@ -3,8 +3,7 @@ My home, the various Pokeclicker cheats.
 [More Infos]()
 
 ## cheats
-Cheats                                           | Links
-:----------------------------------------------- | :----------------------------------------------------------------------
-All Pokémon in the database spawn                | [↻](Abbb)
-Def.                                             | [↻](DefLink)
-Ghi.                                             | [↻](GhiLink)
+Cheats                        | File Name                    | Navigation(Link)
+:---------------------------- | :--------------------------- | :---------------------------
+All Pokémon in the database spawn(with 5 billions damage and shiny)   | Cheat 001.js                         | [Here]()
+Cheats Menu                    | Cheat 002.js                 | [Here]()

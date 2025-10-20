@@ -9,3 +9,14 @@ All Pokémon in the database spawn(with 5 billions damage and shiny)   | Cheat 0
 Cheats Menu                    | Cheat 002.js                 | [Here]()
 
 ## Progress
+
+
+
+## More Infos
+
+
+### Cheats Tested on
+Cheat                         | Tested on Android            | Tested on Pc
+:---------------------------- | :--------------------------- | :---------------------------
+All Pokémon in the database spawn(with 5 billions damage and shiny)   | Yes                         | No
+Cheats Menu                    | ???                         | No

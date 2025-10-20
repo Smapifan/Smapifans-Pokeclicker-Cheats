@@ -16,7 +16,7 @@ All Pokémon in the database spawn(with 5 billions damage and shiny)   | Finishe
 Cheats Menu                                                           | Not published(in progress)
 
 ## More Infos
-I'm developing on Android using the Eruda tool. I'll test the cheats on Android, of course, but only on Android for now. 
+I'm developing on Android using the [Eruda](https://play.google.com/store/apps/details?id=com.eruda) tool. I'll test the cheats on Android, of course, but only on Android for now. 
 
 ### Cheats Tested on
 Cheat                         | Tested on Android            | Tested on Pc
